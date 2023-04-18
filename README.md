@@ -8,10 +8,10 @@ I am a junior software developer who recently graduated from Makers Academy. My 
 | Name                         | Description                                                            | Tech/tools        |
 | ---------------------------- | ---------------------------------------------------------------------- | ----------------- |
 | Language learning RPG        | Created a Japanese learning web app with RPG game elements             | React, Redux toolkit, Node.js, Express.js, MongoDB, Tailwind, Cypress, Jest            |
-| Portfolio website            | Helped academics at my uni to put together a website in Wordpress      | Javascript        |
-| Floresence                   | Created a puzzle game in a 3D Japanese garden       | C#, Unity         |
+| Portfolio website            | Helped academics at my uni to put together a private website. This was a portfolio for government review in application for department funding      | Wordpress, Javascript        |
+| Floresence                   | Created a 3D game where players complete puzzles to unlock aspects of a Japanese garden       | C#, Unity         |
 | Dissertation                 | How Spotify’s algorithmic decisions are impacting music culture        |                   |
-| Studio project               | Created a music video from coded visuals that respond to music         | Javascript        |
+| Studio project               | Created a music video from coded visuals that respond to audio frequencies        | Javascript        |
 
 ## Skills
 
