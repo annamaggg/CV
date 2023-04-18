@@ -15,11 +15,12 @@ I am a junior software developer who recently graduated from Makers Academy. My 
 
 ## Skills
 
-#### Teamwork and communication
+### *Teamwork and communication*
 
 I believe teamwork skills are essential for collaboration in any working environment. During Makers, we programmed in pairs for the majority of our curriculum which was an incredibly valuable process. It helped me to to learn from others and develop my ability to explain my approaches to problem-solving. Attacking a problem with effective communication and listening between two individuals can offer a greater diversity in ideas and skillset, which leads to a quicker, better solution. 
 
 Continuing this pairing approach whilst working in teams on three engineering projects proved highly beneficial to the fluidity and accomplishment of these projects. It was essential to communicate frequently as a team to ensure that all team members could have the greatest opportunity to learn from one another and to maintain our understanding of the software as it progressed. 
+
 
 I have been fortunate to have worked with many different people in various professional settings:
 
@@ -31,7 +32,8 @@ I have been fortunate to have worked with many different people in various profe
 These experiences have provided me with an ability to remain professional when others may stray, diffuse tensions and find the positives in anyone I work with. 
 
 
-#### Problem solving and test driven development 
+
+### *Problem solving and test driven development*
 
 With a natural predisposition to a problem-solving mindset, I find immense joy in finding solutions during software development. 
 Problems can arise unexpectedly during the process and the most valuable aid to this is to test drive the software, preferably to write tests preceeding the implementation of a feature. This provides greater clarity towards expected outputs and functionality, whilst ensuring it is easier to debug problems indicated by tests that break. Tests were a priority in our final projects during Makers, which included over 99% test coverage. 
@@ -39,7 +41,8 @@ Problems can arise unexpectedly during the process and the most valuable aid to 
 My interest in problem solving extends to other aspects of my life. If you find me on the tube, I'll often be absorbed in a Sudoku or word game.
 
 
-#### Quick learner 
+
+### *Quick learner* 
 
 My background in digital technology has provided me with the ability to learn different complex softwares quickly and effectively. This includes:
 
@@ -55,22 +58,12 @@ I have always been prone to quick learning. When I was four years old, I was sol
 
 I was at grade 7 level in piano by fourteen, and have been accustomed to practising every evening for seven years. My teacher, the sister of world famous chellist Jaqueline du Pre, had high standards and instilled in me the values of hard work, dedication and a strive for brilliance from an early age.
 
-#### Resilience 
+<!-- ### *Resilience* 
 
 I also worked on two paid projects contributing to web applications which I thoroughly enjoyed. My course was design-based, therefore, I implemented code into my final year projects where I could, including a dissertation on Spotify’s algorithms and a puzzle game. 
 
 
-- australia oxfam and job 10$ to my name
-
-My university course has taught me a range of valuable skills in various different softwares. This includes:
-
-- Animation
-- Video editing
-- Visual effects
-- Game design
-- VR/AR
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+- australia oxfam and job 10$ to my name -->
 
 
 ## Education
@@ -84,12 +77,12 @@ Consider skills relevent to software development. Then consider projects you've 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-University of Surrey (start_date to end_date)
+#### University of Surrey (start_date to end_date)
 
 - Digital Media Arts - First class (BA hons)
 - With year in industry
 
-Park House School (A levels)
+#### Park House School (A levels)
 
 - Media Studies A*
 - Maths A
